@@ -1,15 +1,12 @@
-"applinks": {
-    "details": [
-      {
-        "appIDs": [
-            "ALVHBX928U.tbx.asmt.mycog.mobile.standalone"
-        ],
-        "components": [
-            {
-                "/": "/aasa-hosting/*",
-                "comment": "Some comment"
+{
+    "applinks": {
+        "apps": [],
+        "details": {
+            "ALVHBX928U.tbx.asmt.mycog.mobile.standalone": {
+                "paths": [
+                    "/aasa-hosting/*"
+                ]
             }
-        ]
-      }
-    ]
+        }
+    }
 }

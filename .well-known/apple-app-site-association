@@ -2,10 +2,8 @@
     "applinks": {
         "apps": [],
         "details": {
-            "app": "ALVHBX928U.tbx.asmt.mycog.mobile.standalone",
-            "paths": [
-                    "*"
-                ]
+            "appID": "ALVHBX928U.tbx.asmt.mycog.mobile.standalone",
+            "paths": [ "*"  ]
         }
     }
 }

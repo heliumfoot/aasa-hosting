@@ -2,11 +2,10 @@
     "applinks": {
         "apps": [],
         "details": {
-            "ALVHBX928U.tbx.asmt.mycog.mobile.standalone": {
-                "paths": [
-                    "/aasa-hosting/*"
+            "app": "ALVHBX928U.tbx.asmt.mycog.mobile.standalone",
+            "paths": [
+                    "*"
                 ]
-            }
         }
     }
 }
